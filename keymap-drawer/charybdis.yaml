@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - '['
-  - TAB
+  - {t: LCTRL, h: TAB}
   - {t: A, h: LGUI}
   - {t: S, h: LALT}
   - {t: D, h: LSHFT}
@@ -37,7 +37,7 @@ layers:
   - .
   - /
   - ']'
-  - LCTRL
+  - LGUI
   - Symbol
   - {t: RET, h: LGUI}
   - {t: SPACE, h: Number}
